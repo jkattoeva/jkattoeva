@@ -1,0 +1,15 @@
+p {
+  font-family: 'Festive', cursive;
+}
+h1 {
+  font-style: italic;
+  font-weight: 500;
+  font-family: monospace; }
+  #picture {
+    float: left;
+    margin: 25px;
+  }
+  img {
+    border:5px solid black ;
+    padding: 10px;
+  }
